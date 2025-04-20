@@ -17,7 +17,6 @@
   - Nguyễn Tuấn Đạt 22024518 K67-TCLC
   - Nguyễn Yến Nhi 22024573 K67-TCLC
   - Lê Đắc Thịnh 22024544 K67-TCLC
-  - Nguyễn Văn A 220245XX K67-TCLC
 
 <p align="center">
 <img width="640" height="480" src="https://i.imgur.com/V4bD7x1.png" alt="Dictionary App Screenshot">
